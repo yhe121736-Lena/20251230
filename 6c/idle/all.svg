@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="transparent"/>
+  <!-- head -->
+  <circle cx="64" cy="36" r="20" fill="#FFDCCF" stroke="#A65" stroke-width="2"/>
+  <circle cx="55" cy="34" r="3" fill="#222" />
+  <circle cx="73" cy="34" r="3" fill="#222" />
+  <path d="M56 44 Q64 50 72 44" stroke="#963" stroke-width="2" fill="none"/>
+  <!-- body -->
+  <rect x="48" y="56" width="32" height="36" rx="6" fill="#C1A8FF" stroke="#7040A0" stroke-width="2"/>
+  <rect x="36" y="62" width="10" height="4" rx="2" fill="#FFDCCF" />
+  <rect x="82" y="62" width="10" height="4" rx="2" fill="#FFDCCF" />
+  <rect x="52" y="92" width="8" height="12" rx="3" fill="#7040A0" />
+  <rect x="68" y="92" width="8" height="12" rx="3" fill="#7040A0" />
+  <text x="64" y="118" font-size="10" text-anchor="middle" fill="#350">6c idle</text>
+</svg>
